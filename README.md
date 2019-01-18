@@ -36,7 +36,7 @@ The one thing I would change about this website would be the size of the video a
 <br>
 -The website design very current and trendy, it's a bright and welcoming site that has a clean and easily understood look.
 <br>
--The navigation is s
+-The navigation is very common; with the sign in/sign up options on the right of the bar on he top, with the subscription option hgt 
 
 
 ---

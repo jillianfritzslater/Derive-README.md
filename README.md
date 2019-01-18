@@ -14,11 +14,15 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 ---
 ## Site 1
 -http://www.architectsofficial.com/?fbclid=IwAR2p2Z2bTPrp2qe0G8-4MNwYQA_W43BkHxEN34PD91BhpCfMNCriRKJn4hA
+<br>
 -While keeping tabs on a band I follow, I was checking their Facebook page and clicked a link that directed me to their Official Site.
 <br>
 -The Website is designed in black & gray tones, eliminating the issues some users may stuggle with such as being colourblind. The hierarchy in the website is well laid out, their music is the first thing featured, then tour dates, their merchandise and lastly their mailing list subscription. The Typography is also large and easily legible. I'd say this is a 'trendy' design because of how legible and straight to the point it is. Simple is in.
+<br>
 -The navigation is easy, all you need to do in order to see more information is scroll up/down.
+<br>
 -The site is useful because it can direct users to their music, merchandise or tour dates depending on what the user is interested in; in my case, I used the website to look at their tour dates.
+
 
 
 ---

@@ -49,18 +49,45 @@ The one thing I would change about this website is possibly adding a 'featured' 
 <br>
 -While scrolling through Instagram, an ad for this website popped up in my Newsfeed. I like jewellery and I'm fascinated with anything to do with the moon, so I clicked the link and was directed to their website.
 <br>
--The website design is current, which is good for its users because this is a current business that's still becoming known. W
+-The website design is current, very clean and proportionate based off of the Typography and overall navigation, colour palettes and placement. 
+<br>
+-It's a static design that only becomes interactive when the user moves the mouse on certain things; photos, menus, etc...
+<br>
+-The website is interactive because of the drop menus and images, you can click on the featured images and shop current collections.
+<br>
+-The one thing I would change about this design is the 'hand-written' Typography because it may not be legible to everyone.
+
 
 
 
 ---
 ## Site 4
+https://www.trickortreatstudios.com/
+<br>
+My boyfriend recommended this website.
+<br>
+The design isn't trendy or current, its has a very forced vintage feel with the vignette/gradients, and the texture on the background isnt pleasing. The overall layout is also very tacky, as if they just organized everything with a grid when it should have had a more creative touch.
+<br>
+Based on how the website was designed to be, the navigation of it is okay - very basic. The masks shown can be clicked on for farther informtation and there are also drop down menus on the top bar.
+<br>
+The one thing I would change about this design is the fact that it isn't responsive to different webpage sizes.
 
 
 
 
 ---
 ## Site 5
+https://github.com/
+<br>
+Some random professor suggested we work here
+<br>
+I personally find the look of this website outdated, there's not enough content to want to bring new users in.
+<br>
+The navigation is okay, it works but seems very plain. It has the standard template style top bar with the drop menus.
+<br> 
+This is very interactive and has a large variety of things for the user to do, it's a creative platform and the users are able to follow others, create successful codes and explore. It allows the user to create their own account and personalize it.
+<br>
+The one thing I would change about Github is the colour scheme, it needs to be more inviting to new users - giving them colour and potential inspiration for their web designs.
 
 
 

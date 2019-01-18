@@ -17,23 +17,26 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 <br>
 -While keeping tabs on a band I follow, I was checking their Facebook page and clicked a link that directed me to their Official Site.
 <br>
--The Website is designed in black & gray tones, eliminating the issues some users may stuggle with such as being colourblind. The hierarchy in the website is well laid out, their music is the first thing featured, then tour dates, their merchandise and lastly their mailing list subscription. The Typography is also large and easily legible. I'd say this is a 'trendy' design because of how legible and straight to the point it is. Simple is in.
+-The Website is designed in black & gray tones, eliminating the issues some users may stuggle with such as being colourblind. The hierarchy in the website is well laid out. The Typography is also large and easily legible. I'd say this is a 'trendy' design because of how legible and straight to the point it is. Simple is in.
 <br>
 -The navigation is easy, all you need to do in order to see more information is scroll up/down.
 <br>
--The site is useful because it can direct users to their music, merchandise or tour dates depending on what the user is interested in; in my case, I used the website to look at their tour dates.
-
+-The site is useful because it can direct users to their music, merchandise or tour dates depending on what the user is interested in; in my case, I used the website to look at their tour dates, which then directed me to where I could purchase a ticket.
+<br>
+The one thing I would change about this website would be the size of the video at the top of the page, it seemed unecessary and gave me more to scroll past when looking for my desired information.
 
 
 ---
 ## Site 2
 -https://www.spotify.com/ca-en/
-
+-I wanted to listen to music so I opened up Spotify
+<br>
+-The website design is very clean, current and trendy. 
 
 
 ---
 ## Site 3
-
+-https://moonglow.ca/
 
 
 

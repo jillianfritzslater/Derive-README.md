@@ -36,7 +36,11 @@ The one thing I would change about this website would be the size of the video a
 <br>
 -The website design very current and trendy, it's a bright and welcoming site that has a clean and easily understood look.
 <br>
--The navigation is very common; with the sign in/sign up options on the right of the bar on he top, with the subscription option hgt 
+-The navigation is very common; with the sign in/sign up options on the right of the bar on he top, and the company options such as 'help', 'about' and 'jobs' at the bottom.
+<br>
+Most of the Typography is interactive, along with the social media icons at the very bottom, allowing the user to know exactly what their options are within the website.
+<br>
+The one thing I would change about this website is possibly adding a 'featured' section on the front page to show those who aren't members an idea of what artist's are a part of Spotify Music.
 
 
 ---

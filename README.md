@@ -21,6 +21,8 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 <br>
 -The navigation is easy, all you need to do in order to see more information is scroll up/down.
 <br>
+The music video is interactive, along with along with all of the menu tabs, tour dates, and websites that feature their merchandise.
+<br>
 -The site is useful because it can direct users to their music, merchandise or tour dates depending on what the user is interested in; in my case, I used the website to look at their tour dates, which then directed me to where I could purchase a ticket.
 <br>
 The one thing I would change about this website would be the size of the video at the top of the page, it seemed unecessary and gave me more to scroll past when looking for my desired information.
@@ -29,14 +31,20 @@ The one thing I would change about this website would be the size of the video a
 ---
 ## Site 2
 -https://www.spotify.com/ca-en/
+<br>
 -I wanted to listen to music so I opened up Spotify
 <br>
--The website design is very clean, current and trendy. 
+-The website design very current and trendy, it's a bright and welcoming site that has a clean and easily understood look.
+<br>
+-The navigation is s
 
 
 ---
 ## Site 3
 -https://moonglow.ca/
+<br>
+-While scrolling through Instagram, an ad for this website popped up in my Newsfeed. I like jewellery and I'm fascinated with anything to do with the moon, so I clicked the link and was directed to their website.
+<br>
 
 
 

@@ -25,7 +25,7 @@ The music video is interactive, along with along with all of the menu tabs, tour
 <br>
 -The site is useful because it can direct users to their music, merchandise or tour dates depending on what the user is interested in; in my case, I used the website to look at their tour dates, which then directed me to where I could purchase a ticket.
 <br>
-The one thing I would change about this website would be the size of the video at the top of the page, it seemed unecessary and gave me more to scroll past when looking for my desired information.
+-The one thing I would change about this website would be the size of the video at the top of the page, it seemed unecessary and gave me more to scroll past when looking for my desired information.
 
 
 ---
@@ -49,6 +49,7 @@ The one thing I would change about this website is possibly adding a 'featured' 
 <br>
 -While scrolling through Instagram, an ad for this website popped up in my Newsfeed. I like jewellery and I'm fascinated with anything to do with the moon, so I clicked the link and was directed to their website.
 <br>
+-The website design is current, which is good for its users because this is a current business that's still becoming known. W
 
 
 
